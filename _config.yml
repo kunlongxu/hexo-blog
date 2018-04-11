@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: Kunlong's Blog
+subtitle: Kunlong's Blog
+description: react ts typescript javascript js es6 redux
 keywords:
-author: John Doe
+author: XuKunlong 
 language:
 timezone:
 
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: indigo 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
